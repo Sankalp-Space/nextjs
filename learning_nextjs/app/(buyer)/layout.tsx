@@ -8,7 +8,7 @@ export default function Layout({
       <body
         
       >
-       <div>this is buyer  sid3 layout </div>
+       <div>this is buyer  side layout </div>
       </body>
     </html>
   );
